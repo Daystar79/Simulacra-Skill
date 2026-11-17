@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+Characters/*_log.yaml
+Characters/[!_]*.md
