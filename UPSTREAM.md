@@ -15,4 +15,4 @@ This repository is an independent downstream distribution. Its bundled reference
 - `references/_template.md` ← `Characters/_template.md`
 - `references/_log_template.yaml` ← `Characters/_log_template.yaml`
 
-Upstream framework specifications and templates: CC BY-SA 4.0; upstream software utilities: MIT. Copyright Cian Didymos (2026). See https://github.com/Daystar79/Simulacra/blob/main/LICENSE.md.
+Upstream framework specifications and templates: CC BY-SA 4.0; upstream software utilities: MIT. Copyright Robert Weast (2026). See https://github.com/Daystar79/Simulacra/blob/main/LICENSE.md.

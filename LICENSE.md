@@ -1,6 +1,6 @@
 # Licensing
 
-Derived framework specifications, prompts, schemas, YAML catalogs, templates and this skill's adaptation of them are provided under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), with attribution to Cian Didymos and the upstream Simulacra project.
+Derived framework specifications, prompts, schemas, YAML catalogs, templates and this skill's adaptation of them are provided under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), with attribution to Robert Weast and the upstream Simulacra project.
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
